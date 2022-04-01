@@ -1,4 +1,4 @@
-
+![I am Nazmul Haque] (https://github.com/nazmul5300/nazmul5300/blob/ea9a708087528d01fadc05207a089a4540a30153/nazmulhaque.png)
 
 
 <h1 align="center">Hi 👋, I'm Namul Haque </h1>
