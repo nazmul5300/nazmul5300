@@ -33,7 +33,7 @@ Skills: JAVASCRIPT/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaul360)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaul360&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rezaul360)  
