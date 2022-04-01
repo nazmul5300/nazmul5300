@@ -35,6 +35,6 @@ Skills: JAVASCRIPT/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaul360&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rezaul360)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rezaul360)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul5300show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazmul5300)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazmul5300)  
