@@ -25,7 +25,7 @@ Skills: JAVASCRIPT/ BOOTSTRAP / REACT / JS / HTML / CSS
 <a href="https://www.facebook.com/nazmulhaque5300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nazmulhaque5300" height="30" width="40" /></a>
 <a href="https://instagram.com/nazmul530053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazmul530053" height="30" width="40" /></a>
 <a href="https://medium.com/@nazmulhaque47233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nazmulhaque47233" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucwmzmrtczddfhljrbkktpvw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwmzmrtczddfhljrbkktpvw" height="30" width="40" /></a>
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutube.com%2Fchannel%2FUCWmZmRtCZddfHlJRBKKtpvw%3Ffbclid%3DIwAR1YMorWCOBRxKS41Mx2eIg4KGx6JANjbXsUNC97KqCBii_6NC4Fy_wL8EE&h=AT3fD12pthGnzdHDFS9y8l7kF09Vv3K_U1rNKUxOqQG3HLxlkD2WVYPuL2clW4O7E_gEE_kKeY_D3NufHSysChWvij01c4nL6TJOLDeEGi9XX99jKQGh3aVxOO-AMl1rG1XLAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwmzmrtczddfhljrbkktpvw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
